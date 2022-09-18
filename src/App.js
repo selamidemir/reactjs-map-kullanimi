@@ -7,6 +7,10 @@ function App() {
     <div className='App'>
       <UrunListele />
       <Uyeler />
+      <div>
+        <a href='https://netbilio.com' title='Netbilio'>Netbilio</a> | {" "}
+        <a href='https://github.com/selamidemir'>Github</a>
+      </div>
     </div>
   );
 }

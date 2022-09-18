@@ -15,7 +15,7 @@ function Uyeler() {
             <h2>Üye Listesi</h2>
             <ul>
                 {
-                   uyeler.map((isim, index) => <li>{isim}</li>) 
+                    uyeler.map((isim, index) => <li>{isim}</li>)
                 }
             </ul>
         </div>
