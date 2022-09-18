@@ -7,6 +7,7 @@ Bu yazımızda [Netbilio](https://netbilio.com) üzerinde yayınladığımız [R
 
 İki farklı komponent oluşturduk. **UrunListele** isimli komponentimizde bir ürün listesini ekrana bastık. İkinci komponentimizde elimizde bir üye listesi var ve bu üye isimlerini ekrana basıyoruz.
 
+Repoyu bilgisayarınıza indirdikten sonra, react-map klasörü içerisine girin ve ```npm init``` komutunu çalıştırın. Gerekli paketler kurulduktan sonra ```npm start``` komutu ile uygulamayı ayağa kaldırabilirsiniz. Sisteminizde **Node JS** ve **npm** paket yöneticisi kurulu olmalıdır.
 
 ![ReatJs İle Map Kullanımı](reactjs-map-kullanimi.png)
 
